@@ -1,0 +1,11 @@
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    list-style: none;
+}
+
+.header-item {
+    background-color: aquamarine;
+    width: 80;
+}
