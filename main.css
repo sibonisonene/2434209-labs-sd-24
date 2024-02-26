@@ -37,6 +37,14 @@
     height: 400px;
 }
 
+.services-heading {
+    text-align: center;
+}
+
+.services {
+    display: flex;
+}
+
 
 
 footer {
