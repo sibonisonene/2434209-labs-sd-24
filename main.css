@@ -1,13 +1,27 @@
-.header-container {
-    display: flex;
-    justify-content: space-between;
-    flex-direction: row;
-    list-style: none;
+.header-navigation {
+    align-items: center;
+    height: 3.2em;
 }
 
-.header-item {
-   
+
+.nav-container {
+    background-color: rgb(48, 47, 47);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: row;
+    list-style: none;
+    height: 3.2em;
+    line-height: 3.2em; 
 }
+
+.nav-item {
+    color: white;
+    text-decoration: none;
+    font-size: medium;
+}
+
+
 
 .global-footer {
     background-color: rgb(48, 47, 47);
@@ -15,8 +29,5 @@
     text-align: center;
     height: 3.2em;
     line-height: 3.2em; 
-}
-
-.title {
-    font-size: medium;
+    position: bottom;
 }
