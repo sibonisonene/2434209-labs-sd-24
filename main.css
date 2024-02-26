@@ -9,3 +9,10 @@
     background-color: aquamarine;
     width: 80;
 }
+
+.global-footer {
+    background-color: rgb(48, 47, 47);
+    color: white;
+    position: relative;
+    bottom: 0;
+}
