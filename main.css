@@ -2,8 +2,13 @@
     display: flex;
     align-items: center; 
     justify-content: space-between; 
-    align-items: center;
-    margin-left: 160px;
+    background-color: rgb(48, 47, 47);
+    color: white;
+    padding: 10px 20px;
+}
+
+.title {
+    margin-left: 220px;
 }
 
 .nav-container {
@@ -14,12 +19,16 @@
 }
 
 .nav-item {
-    margin-right: 0px;  
-    margin: 50px; 
-    color: white;
-
+    margin-right: 50px;  
 }
 
+.about-us {
+    text-align: center;
+}
+
+.first-image-desc {
+    text-align: center;
+}
 
 
 
@@ -31,4 +40,5 @@ footer {
     line-height: 3.2em; 
     position: bottom;
     padding: 0;
+
 }
