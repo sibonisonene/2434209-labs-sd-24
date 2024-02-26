@@ -30,6 +30,13 @@
     text-align: center;
 }
 
+.img-1 {
+    display: block; 
+    margin: 0 auto; 
+    width: 600px;
+    height: 400px;
+}
+
 
 
 footer {
